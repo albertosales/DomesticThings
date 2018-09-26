@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">DomesticThings</string>
+    <string name="title_activity_gaveta_lateral_nd">Sistema Gerencial</string>
+
+    <string name="navigation_drawer_open">Abrir Gaveta Lateral (Menu)</string>
+    <string name="navigation_drawer_close">Fechar Gaveta Lateral (Menu)</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="cadastro_fragment">Realizar Cadastro</string>
+    <string name="consulta_fragment">Consulta Dados</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="title_activity_consulta">ConsultaActivity</string>
+
+    <string name="Nome_pais">Nome do País</string>
+    <string name="adicionar_registro">Adicionar Registro</string>
+    <string name="btn_atualizar">Atualizar</string>
+    <string name="btn_deletar">Deletar</string>
+    <string name="texto_lista_vazia">Registro não encontrado</string>
+
+    <string name="adiciona_emp">Adiciona Empregados</string>
+    <string name="atualiza_emp">Atualiza Empregados</string>
+    <string name="nome">Nome</string>
+    <string name="aniversario">Aniversário</string>
+    <string name="salario">Salário</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="reset">Reset</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="opcao">Opções</string>
+    <string name="sair">Sair</string>
+
+</resources>

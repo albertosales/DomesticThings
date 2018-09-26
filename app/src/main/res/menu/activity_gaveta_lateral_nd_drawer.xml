@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/cadastro"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Cadastros" />
+        <item
+            android:id="@+id/consulta"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Consultas" />
+        <item
+            android:id="@+id/graficos"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Graficos" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Ferramentas" />
+    </group>
+
+    <item android:title="Mensagens">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Compartilhar" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Enviar" />
+        </menu>
+    </item>
+
+    <item android:title="@string/opcao">
+        <menu>
+            <item
+                android:id="@+id/nav_sair"
+                android:title="@string/sair" />
+        </menu>
+    </item>
+
+</menu>

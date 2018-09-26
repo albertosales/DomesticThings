@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/primary_items"
+        android:checkableBehavior="single"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <item
+            android:id="@+id/cadastro"
+            android:icon="@drawable/ic_action_home"
+            android:checked="true"
+            android:title="@string/cadastro_fragment"/>
+
+        <item
+            android:id="@+id/consulta"
+            android:icon="@drawable/ic_action_highlight"
+            android:title="@string/consulta_fragment"/>
+    </group>
+</menu>
